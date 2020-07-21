@@ -1,0 +1,1 @@
+/home/alifya/Documents/cratesio_lib/input_crate/target/package/input_crate-0.1.0/target/debug/libinput_crate.rlib: /home/alifya/Documents/cratesio_lib/input_crate/target/package/input_crate-0.1.0/src/lib.rs
