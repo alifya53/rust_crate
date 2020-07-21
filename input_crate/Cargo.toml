@@ -1,0 +1,11 @@
+[package]
+name = "input_crate"
+version = "0.1.0"
+authors = ["alifya53 <alifyahussian53@gmail.com>"]
+edition = "2018"
+description = "By using this crate you will be able to take input from user, You just have to import this in your main.rs file 'extern crate input_crate;  , 'input_crate::counter(startvalue,endvalue)';"
+license = "MIT"
+repository = "https://github.com/alifya53/rust_crate"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
